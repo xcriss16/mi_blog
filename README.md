@@ -76,7 +76,7 @@ Cada commit representa una mejora concreta del proyecto, facilitando el seguimie
 Se activó **GitHub Pages** desde la configuración del repositorio, utilizando la rama `main` como origen y la carpeta raíz (`/`).
 
 🔗 **URL pública del sitio web:**  
-👉 https://https://xcriss16.github.io/mi_blog//
+👉 https: https://xcriss16.github.io/mi_blog/
 
 Tras cada `git push`, GitHub Pages actualiza automáticamente el sitio, lo que ejemplifica un proceso básico de **integración continua**.
 
